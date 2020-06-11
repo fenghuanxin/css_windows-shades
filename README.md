@@ -5,6 +5,6 @@
 <br>
 
 
-![Image](https://github.com/fenghuanxin/login_page/blob/master/img/long2.png)
+![Image](https://github.com/fenghuanxin/css_windows-shades/blob/master/img/example1.png)
 
-![Image](https://github.com/fenghuanxin/login_page/blob/master/img/long3.png)
+![Image](https://github.com/fenghuanxin/css_windows-shades/blob/master/img/exampl2.png)

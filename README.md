@@ -7,4 +7,4 @@
 
 ![Image](https://github.com/fenghuanxin/css_windows-shades/blob/master/img/example1.png)
 
-![Image](https://github.com/fenghuanxin/css_windows-shades/blob/master/img/exampl2.png)
+![Image](https://github.com/fenghuanxin/css_windows-shades/blob/master/img/example2.png)
